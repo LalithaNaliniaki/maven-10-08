@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "New line added " );
-        System.out.println( "New line to main branch for 2nd time" );
+        System.out.println( "New line to feature branch for 3rd time" );
     }
 }
